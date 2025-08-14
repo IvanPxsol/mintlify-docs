@@ -1,5 +1,6 @@
 ---
 title: 'Enviar correo'
+description: "Start building awesome documentation in minutes"
 ---
 # Enviar un correo desde la bandeja de entrada
 
