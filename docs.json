@@ -24,10 +24,7 @@
           {
             "group": "Prueba Guía",
             "pages": [
-              {
-                "name": "Mi título bonito para la guía",
-                "href": "guias/markdown"
-              }
+              "markdown"
             ]
           },
           {
