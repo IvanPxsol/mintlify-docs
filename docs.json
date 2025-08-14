@@ -24,7 +24,10 @@
           {
             "group": "Prueba Guía",
             "pages": [
-              "guias/markdown"
+              {
+                "name": "Mi título bonito para la guía",
+                "href": "guias/markdown"
+              }
             ]
           },
           {
