@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Prueba Guía",
+            "pages": [
+              "markdown"
+            ]
+          }
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
