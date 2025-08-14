@@ -1,3 +1,6 @@
+---
+title: 'Enviar correo'
+---
 # Enviar un correo desde la bandeja de entrada
 
 **Descripción:** Esta funcionalidad permite redactar y enviar un correo electrónico directamente desde la bandeja de entrada del sistema, facilitando la comunicación con clientes y contactos sin necesidad de utilizar una aplicación externa.
