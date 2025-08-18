@@ -1,0 +1,12 @@
+# Creación de Vistas Personalizadas
+Esta funcionalidad permite a los usuarios crear y guardar vistas personalizadas de la tabla de informes aplicando filtros específicos. Las vistas guardadas pueden ser reutilizadas y compartidas con otros usuarios de la empresa.
+
+## Pasos
+1. Para iniciar la creación de una vista personalizada, identifique el parámetro de filtro deseado en la tabla de informes. ![crear_vista_perso.webm_timestamp_(00:06)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528651_0_68a33dcb05a11.jpg)
+2. Haga clic en el icono de filtro ubicado en la cabecera de la columna "Usuario que lo instala". ![crear_vista_perso.webm_timestamp_(00:25)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528651_1_68a33dcb50710.jpg)
+3. Dentro del menú de filtro, ingrese el texto "pau" en el campo de filtro para aplicar un filtro por nombre de usuario. ![crear_vista_perso.webm_timestamp_(00:33)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528651_2_68a33dcb7e11f.jpg)
+4. Una vez aplicada la condición de filtro, haga clic en el botón "Guardar Vista". ![crear_vista_perso.webm_timestamp_(00:41)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528651_3_68a33dcbaa216.jpg)
+5. En la ventana emergente "Guardar Vista", asigne un nombre a la vista, por ejemplo, "Tests1". ![crear_vista_perso.webm_timestamp_(00:45)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528651_4_68a33dcbc5cb3.jpg)
+6. Seleccione la opción "Todos los usuarios de la empresa" en el campo "Compartir con" para permitir que otros usuarios accedan a esta vista. ![crear_vista_perso.webm_timestamp_(00:53)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528652_5_68a33dcc0585b.jpg)
+7. Confirme la creación de la vista haciendo clic en "GUARDAR VISTA". ![crear_vista_perso.webm_timestamp_(00:56)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528652_6_68a33dcc474b1.jpg)
+8. La vista personalizada "Tests1" se cargará y mostrará solo los informes que cumplan con el criterio de filtro establecido. ![crear_vista_perso.webm_timestamp_(01:03)](https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/18/screenshot_1755528652_7_68a33dcc7f17f.jpg)
