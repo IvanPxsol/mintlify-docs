@@ -25,7 +25,8 @@
             "group": "Prueba Guía",
             "pages": [
               "markdown",
-              "gonza"
+              "gonza",
+              "docs/escenarios-onboarding"
             ]
           },
           {
