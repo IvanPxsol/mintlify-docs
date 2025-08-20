@@ -1,0 +1,146 @@
+```yaml
+---
+title: "Gestión de Escenarios"
+description: "Cree y aplique conjuntos de precios predefinidos a planes tarifarios para rangos de fechas específicos, facilitando la gestión masiva de tarifas para temporadas, eventos o promociones."
+---
+
+Esta funcionalidad le permite crear y aplicar conjuntos de precios predefinidos (escenarios) a planes tarifarios específicos para rangos de fechas determinados. Facilita la gestión masiva de tarifas para temporadas, eventos o promociones, optimizando su estrategia de precios.
+
+## Crear un Escenario
+
+Para definir un nuevo conjunto de precios que podrá aplicar posteriormente:
+
+<Steps>
+<Step title="Acceda a la creación de un nuevo escenario">
+Desde la pestaña **Escenarios**, presione el botón para crear un nuevo escenario.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693655_0_68a5c257f2168.jpg" alt="Botón para crear un nuevo escenario" />
+</Frame>
+</Step>
+
+<Step title="Asigne un nombre al escenario">
+En la ventana emergente, introduzca un nombre descriptivo para el escenario.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_1_68a5c25817cfb.jpg" alt="Campo para ingresar el nombre del escenario" />
+</Frame>
+</Step>
+
+<Step title="Seleccione la moneda">
+Seleccione la moneda en la que se definirán los precios para este escenario.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_2_68a5c2582c49e.jpg" alt="Selección de moneda para el escenario" />
+</Frame>
+</Step>
+
+<Step title="Introduzca los precios por categoría">
+Introduzca el precio correspondiente para cada categoría de habitación listada.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_3_68a5c25842a66.jpg" alt="Campos para ingresar precios por categoría de habitación" />
+</Frame>
+</Step>
+
+<Step title="Guarde el escenario">
+Guarde los cambios para crear el escenario.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_4_68a5c25853671.jpg" alt="Botón para guardar los cambios y crear el escenario" />
+</Frame>
+</Step>
+</Steps>
+
+## Aplicar un Escenario a un Plan Tarifario
+
+Una vez creado, puede aplicar un escenario a uno o varios planes tarifarios:
+
+<Steps>
+<Step title="Inicie el proceso de aplicación">
+Presione el botón **Aplicar escenario**.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_5_68a5c2586b0c6.jpg" alt="Botón 'Aplicar escenario'" />
+</Frame>
+</Step>
+
+<Step title="Seleccione el plan tarifario">
+En la ventana emergente, seleccione el plan tarifario al que aplicará el escenario. Solo se mostrarán planes tarifarios independientes.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_6_68a5c2588e90b.jpg" alt="Selección de plan tarifario" />
+</Frame>
+</Step>
+
+<Step title="Elija el escenario a aplicar">
+Seleccione el escenario que desea aplicar. La lista se filtrará automáticamente por la moneda del plan tarifario seleccionado.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_7_68a5c258a15df.jpg" alt="Selección de escenario a aplicar" />
+</Frame>
+</Step>
+
+<Step title="Defina el rango de fechas">
+Defina el rango de fechas en el que el escenario estará activo.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_8_68a5c258b884c.jpg" alt="Selección de rango de fechas para el escenario" />
+</Frame>
+</Step>
+
+<Step title="Agregue rangos de fechas adicionales (opcional)">
+Opcionalmente, presione **Agregar fecha** para aplicar el mismo escenario a múltiples rangos de fechas discontinuos.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_9_68a5c258cc31b.jpg" alt="Botón 'Agregar fecha' para rangos discontinuos" />
+</Frame>
+</Step>
+
+<Step title="Revise los cambios">
+Presione **Revisar cambios** para ver un resumen de las modificaciones que se aplicarán.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693656_10_68a5c258e3614.jpg" alt="Botón 'Revisar cambios'" />
+</Frame>
+</Step>
+
+<Step title="Confirme la aplicación del escenario">
+Verifique que los rangos de fecha y las nuevas tarifas son correctos y presione **Aplicar cambios** para confirmar la operación.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693657_11_68a5c25902e30.jpg" alt="Revisión y aplicación de cambios" />
+</Frame>
+</Step>
+</Steps>
+
+## Verificar y Consultar Escenarios
+
+Puede consultar el estado actual y el historial de las aplicaciones de escenarios:
+
+<Steps>
+<Step title="Consulte escenarios activos">
+Para consultar los escenarios que están actualmente activos, navegue a la pestaña **Escenarios aplicados**.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693657_12_68a5c25919300.jpg" alt="Pestaña 'Escenarios aplicados'" />
+</Frame>
+</Step>
+
+<Step title="Revise la tabla de aplicación">
+La tabla mostrará qué escenario y qué plan tarifario están aplicados para cada rango de fechas.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693657_13_68a5c259313d6.jpg" alt="Tabla de escenarios aplicados" />
+</Frame>
+</Step>
+
+<Step title="Acceda al historial de cambios">
+Para consultar el registro histórico de todas las aplicaciones de escenarios, navegue a la pestaña **Historial de cambios**.
+
+<Frame>
+<img src="https://files-public-web.s3-us-west-2.amazonaws.com/1978/video_screenshots/2025/08/20/screenshot_1755693657_14_68a5c25943eff.jpg" alt="Pestaña 'Historial de cambios'" />
+</Frame>
+</Step>
+</Steps>
+```
