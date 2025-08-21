@@ -51,6 +51,12 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "Demo",
+            "pages": [
+              "crear_vista_personalizada"
+            ]
           }
         ]
       },
@@ -70,6 +76,12 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
+            ]
+          },
+          {
+            "group": "Demo",
+            "pages": [
+              "crear_vista_personalizada"
             ]
           }
         ]
@@ -114,15 +126,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
