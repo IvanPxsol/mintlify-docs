@@ -51,6 +51,12 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "customization",
+            "pages": [
+              "customization/enviar_correo"
+            ]
           }
         ]
       },
@@ -114,15 +120,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
