@@ -41,7 +41,8 @@
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
-              "essentials/reusable-snippets"
+              "essentials/reusable-snippets",
+              "writing_content/crear_vista_personalizada"
             ]
           },
           {
@@ -114,15 +115,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
