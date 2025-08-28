@@ -25,7 +25,8 @@
             "group": "Prueba Guía",
             "pages": [
               "markdown",
-              "docs/escenarios-onboarding"
+              "docs/escenarios-onboarding",
+              "prueba_guía/enviar_correo"
             ]
           },
           {
@@ -114,15 +115,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
