@@ -18,7 +18,8 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "development",
+              "getting_started/enviar_correo"
             ]
           },
           {
@@ -114,15 +115,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
